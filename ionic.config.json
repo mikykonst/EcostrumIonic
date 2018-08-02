@@ -1,0 +1,7 @@
+{
+  "name": "Ecostrum",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
